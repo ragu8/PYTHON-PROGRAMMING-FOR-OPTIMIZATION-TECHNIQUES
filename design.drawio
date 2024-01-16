@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T04:27:22.261Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="eekb54YJlzuore-JskSg" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T04:54:57.598Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="8GUl-dclVpW65WT_zCDx" version="22.1.18" type="github">
   <diagram name="Page-1" id="fzjMtXdlAiXH6olVbyjk">
     <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -504,7 +504,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-8p-tEgV21kq466in3pA-429" value="&lt;div&gt;&lt;b&gt;NOTE:&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="55" y="3293" width="90" height="40" as="geometry" />
+          <mxGeometry x="40" y="3297" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8p-tEgV21kq466in3pA-434" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-8p-tEgV21kq466in3pA-433" target="-8p-tEgV21kq466in3pA-387" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -519,10 +519,13 @@
           <mxGeometry x="199" y="2920" width="111" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NTvacWG2wVUT-Fo1ADtY-1" value="If the cloud is disconnected, retain the instance, and transfer the data when it reconnects." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="98" y="3342" width="500" height="30" as="geometry" />
+          <mxGeometry x="68" y="3373" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NTvacWG2wVUT-Fo1ADtY-3" value=" The configuration file as JSON, and if it is absent, raise a &quot;File Missing&quot; error. Proceed to configure the RoI " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="97" y="3320" width="590" height="30" as="geometry" />
+          <mxGeometry x="68" y="3319" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NTvacWG2wVUT-Fo1ADtY-7" value="Following the validation of an intrusion, if confirmed, gather information related to the&amp;nbsp;intrusion, capturing video data for a brief duration." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="3349" width="740" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
