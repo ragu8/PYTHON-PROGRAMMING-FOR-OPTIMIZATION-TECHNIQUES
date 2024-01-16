@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T06:01:38.162Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="yRHLZns_KbF9dSFlj2Ox" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T06:04:46.244Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="R-hlB2wao6On4EeI5fl_" version="22.1.18" type="github">
   <diagram name="Page-1" id="fzjMtXdlAiXH6olVbyjk">
-    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,8 +247,8 @@
         <mxCell id="NTvacWG2wVUT-Fo1ADtY-8" value="&lt;div&gt;&lt;b&gt;NOTE:&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1477" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NTvacWG2wVUT-Fo1ADtY-9" value="If the cloud is disconnected, retain the instance, and transfer the data when it reconnects." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1564" width="500" height="30" as="geometry" />
+        <mxCell id="NTvacWG2wVUT-Fo1ADtY-9" value="If the Network is disconnected, retain the instance, and transfer the data when it reconnects." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1564" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NTvacWG2wVUT-Fo1ADtY-10" value=" The configuration file as JSON, and if it is absent, raise a &quot;File Missing&quot; error. Proceed to configure the &lt;b&gt;RoI&lt;/b&gt; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="66" y="1499" width="590" height="30" as="geometry" />
